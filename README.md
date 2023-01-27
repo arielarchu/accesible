@@ -1,2 +1,0 @@
-# accesible
-sintacc accesible
