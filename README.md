@@ -1,0 +1,2 @@
+# accesible
+sintacc accesible
